@@ -1,2 +1,2 @@
 # Food_dist
-Reloading my first educational project
+Reloading my first educational java script project
